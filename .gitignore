@@ -169,4 +169,4 @@ cython_debug/
 .idea/
 
 .venv/
-!/employee_api/venv/
+**/venv/**
