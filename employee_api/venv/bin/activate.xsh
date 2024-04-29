@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/amit/Documents/Python/employee-api/employee_api/venv"
+$VIRTUAL_ENV = r"/home/amit/Documents/Python/my-rest-apis/python-django-rest/employee_api/venv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
